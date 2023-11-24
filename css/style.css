@@ -226,7 +226,7 @@ ul {
     border: 2px solid #fff;
   }
   .testi-outer {
-    background-image: url(/images/main-home-slide3.jpg);
+    background-image: url(../images/main-home-slide3.jpg);
     position: relative;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -386,7 +386,7 @@ ul {
    /* form */
 
    .form-outer {
-    background-image: url(/images/white-home-parallax1.jpg);
+    background-image: url(../images/white-home-parallax1.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     padding: 100px 0;
@@ -496,7 +496,7 @@ ul {
     padding: 100px 0;
     /* background-color: #2e2e2e; */
     position: relative;
-    background-image: url(/images/h2-bg-footer.jpg);
+    background-image: url(../images/h2-bg-footer.jpg);
   }
   .footer-boxes {
     display: flex;
